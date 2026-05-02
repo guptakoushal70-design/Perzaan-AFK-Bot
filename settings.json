@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Hostel243.aternos.me:30413 ",
+    "port": 30413,
     "version": "1.21.1"
   },
   "position": {
